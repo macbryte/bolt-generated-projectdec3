@@ -1,0 +1,23 @@
+{
+      "name": "personal-finance-app",
+      "version": "0.1.0",
+      "private": true,
+      "scripts": {
+            "dev": "vite"
+      },
+      "dependencies": {
+            "@reduxjs/toolkit": "^1.7.2",
+            "chart.js": "^3.8.0",
+            "firebase": "^9.6.10",
+            "react": "^18.2.0",
+            "react-dom": "^18.2.0",
+            "react-redux": "^8.0.4"
+      },
+      "devDependencies": {
+            "@types/react": "^18.0.28",
+            "@types/react-dom": "^18.0.11",
+            "@vitejs/plugin-react": "^3.1.0",
+            "sass": "^1.56.1",
+            "vite": "^4.5.5"
+      }
+}
